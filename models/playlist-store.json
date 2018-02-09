@@ -1,0 +1,84 @@
+{
+  "playlistCollection": [
+    {
+      "id":"01",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        },
+        {
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        },
+        {
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "duration":"10:00",
+          "genre":"Classical"
+        }
+        
+       
+      ]
+      
+    },
+ 
+    {
+      "id":"02",
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        },
+        {
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        },
+        {
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+          
+        }
+      ]
+    },
+    
+    {
+      "id":"03",
+      "title": "Beethoven Piano Sonata",
+      "songs": [
+        {
+          "title": "Piano Concerto No. 22",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        },
+        {
+          "title": "Piano Concerto No. 13",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        },
+        {
+          "title": "Piano Concerto No. 10",
+          "artist": "Beethoven",
+          "duration":"10:00",
+           "genre":"Classical"
+        }
+      ]
+    }
+    
+    
+  ]
+}
